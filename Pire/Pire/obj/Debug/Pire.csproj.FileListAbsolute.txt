@@ -1,0 +1,6 @@
+c:\users\wallace.costa\documents\visual studio 2013\Projects\Pire\Pire\bin\Debug\Pire.exe.config
+c:\users\wallace.costa\documents\visual studio 2013\Projects\Pire\Pire\bin\Debug\Pire.exe
+c:\users\wallace.costa\documents\visual studio 2013\Projects\Pire\Pire\bin\Debug\Pire.pdb
+c:\users\wallace.costa\documents\visual studio 2013\Projects\Pire\Pire\obj\Debug\Pire.csprojResolveAssemblyReference.cache
+c:\users\wallace.costa\documents\visual studio 2013\Projects\Pire\Pire\obj\Debug\Pire.exe
+c:\users\wallace.costa\documents\visual studio 2013\Projects\Pire\Pire\obj\Debug\Pire.pdb
